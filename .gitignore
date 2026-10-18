@@ -1,0 +1,15 @@
+dist/MediaShelf.exe
+build/MediaShelf/Analysis-00.toc
+build/MediaShelf/base_library.zip
+build/MediaShelf/EXE-00.toc
+build/MediaShelf/localpycs/pyimod01_archive.pyc
+build/MediaShelf/localpycs/pyimod02_importers.pyc
+build/MediaShelf/localpycs/pyimod03_ctypes.pyc
+build/MediaShelf/localpycs/pyimod04_pywin32.pyc
+build/MediaShelf/localpycs/struct.pyc
+build/MediaShelf/MediaShelf.pkg
+build/MediaShelf/PKG-00.toc
+build/MediaShelf/PYZ-00.pyz
+build/MediaShelf/PYZ-00.toc
+build/MediaShelf/warn-MediaShelf.txt
+build/MediaShelf/xref-MediaShelf.html
